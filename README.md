@@ -1,12 +1,12 @@
-# javascript_practice-
+javascript_practice-
 A daily JavaScript learning project exploring core programming concepts and data structures. Each day adds a new script covering topics like variables, scope, Big-O, arrays, objects, classes, recursion, stacks, queues, and more, with hands-on examples and practice.
-# 📘 JavaScript Data Structures Playground
+ JavaScript Data Structures Playground
 
 This is my personal learning project while studying **JavaScript** and **Data Structures & Algorithms** using the books:
 - *Exploring JS*
 - *JavaScript Data Structures and Algorithms*
 
-## 🎯 Goal
+Goal
 To practice coding daily by building small scripts that focus on one concept at a time:
 - Variables, scope, and Big-O
 - Arrays and loops
@@ -15,5 +15,5 @@ To practice coding daily by building small scripts that focus on one concept at 
 - Classes and OOP
 - Sorting, searching, and more advanced algorithms
 
-## 📂 Structure
+Structure
 Each day I add a new script file:
